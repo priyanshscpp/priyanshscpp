@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **DevOps & Cloud Computing**
 
-- 👯 I’m looking to collaborate on **Gsoc .**
+- 👯 I’m looking to collaborate on **GSOC .**
 
 - 👨‍💻 My Portfolio is available  [here .](https://resume-priyansh.netlify.app/)
 
