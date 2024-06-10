@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **GSOC .**
 
-- 👨‍💻 My Portfolio is available  [here .](https://resume-priyansh.netlify.app/)
+- 👨‍💻 My Portfolio is available  [here .](https://resume-priyanshu.netlify.app/)
 
 - 💬 Ask me about **MERN Stack.**
 
@@ -15,8 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-yadav-7945111a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshu-yadav-7945111a6/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/priyanshusgvm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/priyanshusgvm/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/priyanshuhbti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="priyanshuhbti" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/priyanshusgvm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/priyanshu.tsx/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/priyanshuhbi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="priyanshuhbti" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/priyanshuhbti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="priyanshuhbti" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/priyanshuhbti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshuhbti" height="30" width="40" /></a>
 </p>
