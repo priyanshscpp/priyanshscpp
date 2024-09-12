@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN+AI**
 
-- 📫 How to reach me **priyanshusgvm46@gmail.com**
+- 📫 How to reach me **priyanshs.ece@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
