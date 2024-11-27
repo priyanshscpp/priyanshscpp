@@ -14,10 +14,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/priyanshuhbti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshuhbti/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/priyanshuy.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/priyanshuy.exe" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/priyanshuhbti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/priyanshuhbti" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/priyanshuhbti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/priyanshuhbti" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://hackerank.com/priyanshuhbti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://hackerank.com/priyanshuhbti" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/priyanshuy.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/priyanshs.exe" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/priyanshuhbti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/priyanshs.ece" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/priyanshs.ece" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/priyanshuhbti" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://hackerank.com/priyanshs.ece" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://hackerank.com/priyanshuhbti" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
