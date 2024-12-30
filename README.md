@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Machine Learning Systems**
 
-- 👨‍💻 All of my projects are available at [ProjectsTree](ProjectsTree)
-
 - 💬 Ask me about **Backend + Computer Systems**
 
 - 📫 How to reach me **priyanshs.ece@gmail.com**
