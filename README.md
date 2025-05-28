@@ -1,27 +1,15 @@
- Hello! I’m Priyanshu Yadav 👋
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuhbti&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuhbti" /> </p>
-
+ Hello! I’m Priyanshu Yadav <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuhbti&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuhbti" /> </p>
 
  Eng Stuff @ “Work”  
-* Building scalable, low-latency **backend services** in **Javascript** & **Rust**  
-* Designing & implementing **microservices**, **gRPC APIs**, and **message pipelines**  
-* Automating infrastructure with **Docker**, **Kubernetes**, **Terraform** & **GitHub Actions**
+   * Building scalable, low-latency **backend services** in **Javascript** & **Go**  
+   * Designing & implementing **microservices**, **gRPC APIs**, and **message pipelines**  
+   * Automating infrastructure with **Docker**, **Kubernetes**, **Terraform** & **GitHub Actions**
 
  Eng Stuff Not @ “Work”  
-* Experimenting with **Machine Learning Systems** for resource profiling  
-* Contributing to **Node.js** Foundation and **Electron.js** core codebases  
-* Organizing hackathons & tech-talks for **GDSC HBTU** and local developer communities  
+  * Experimenting with **Machine Learning Systems** for resource profiling.  
+  * Contributing to **Web** Foundation and **Computer Systems** core codebases.  
+  * Organizing hackathons & tech-talks for **Google Developers Club** and local developer communities. 
   
-- 🌱 I’m currently learning **Machine Learning Systems**
-
-- 💬 I love working on  **Backend + Computer Systems**
-
-- 📫 How to reach me **priyanshs.ece@gmail.com**
-
-
-![Priyansh’s GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshscpp&show_icons=true&theme=dark)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
