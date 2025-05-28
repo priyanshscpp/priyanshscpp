@@ -4,7 +4,7 @@ Hello! I'm Priyanshu. &nbsp; &nbsp; <img src="https://komarev.com/ghpvc/?usernam
 
 Eng Stuff @ Work:
 
-* Building scalable, low-latency **backend services** in **Javascript** :electron: by Microsoft.
+* Building scalable, low-latency **backend services** in **Typescript** :electron: by Microsoft.
 * Working on [Computer Systems Engineering ](https://github.com/nodejs/node):
   * As a Core Learner & Contributor.🌞
 * Automating literally all the things 🤖.
