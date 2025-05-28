@@ -1,10 +1,10 @@
 
 
-Hello! I'm Priyanshu Yadav. &nbsp; &nbsp; <img src="https://komarev.com/ghpvc/?username=priyanshuhbti&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuhbti" /> 
+Hello! I'm Priyanshu. &nbsp; &nbsp; <img src="https://komarev.com/ghpvc/?username=priyanshuhbti&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuhbti" /> 
 
 Eng Stuff @ Work:
 
-* Building scalable, low-latency **backend services** in **Javascript**. :electron:
+* Building scalable, low-latency **backend services** in **Javascript** :electron: by Microsoft.
 * Working on [Computer Systems Engineering ](https://github.com/nodejs/node):
   * As a Core Learner & Contributor.🌞
 * Automating literally all the things 🤖.
