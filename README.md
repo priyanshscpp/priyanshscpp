@@ -11,7 +11,7 @@ Eng Stuff @ Work:
 
 Eng Stuff Not @ Work:
 
-* Messing around with Machine Learning Systems - particularly ones that [Apache](https://github.com/codebytere/node-mac-permissions) RTOS and [funky](https://github.com/codebytere/node-mac-contacts) LinuxOS [functionality](https://github.com/codebytere/node-mac-userdefaults).
+* Messing around with Machine Learning Systems - particularly ones that [tie together](https://github.com/codebytere/node-mac-permissions) RTOS and [funky](https://github.com/codebytere/node-mac-contacts) LinuxOS [functionality](https://github.com/codebytere/node-mac-userdefaults).
 * Helping organize [GDSC](https://queerjs.com/) - a meetup for everyone where Tech speakers take the stage.
 
 Not @ Work: 🏃🏻‍♀️ - :book: - 🎶 - 🏁 - 🌁 - 🚲 - 🌿
