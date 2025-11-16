@@ -9,9 +9,9 @@ Hello! I'm Priyanshu. &nbsp; &nbsp;
 
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail)](mailto:priyanshs.ece@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/priyanshuhbti/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/codeMaverick7770)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Purple%201957-1F8ACB?style=flat&logo=codeforces)](https://codeforces.com/profile/pedrosa)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%201874-FFA116?style=flat&logo=leetcode)](https://leetcode.com/Mtauqeer7770)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/priyanshscpp)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Purple%201957-1F8ACB?style=flat&logo=codeforces)](https://codeforces.com/profile/priyanshs.exe)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%201874-FFA116?style=flat&logo=leetcode)](https://leetcode.com/priyanshsexe)
 
 <img src="https://komarev.com/ghpvc/?username=priyanshuhbti&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuhbti" /> 
 
