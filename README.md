@@ -102,9 +102,7 @@
     <td>
       <h3>🏆 MapGPT MCP</h3>
       <a href="https://kickdsa.online/">
-        <!-- <img src="https://i.postimg.cc/W43mbg32/image.png" alt="kickDSA Preview" width="100%" /> --><img width="1862" height="1056" alt="image" src="https://github.com/user-attachments/assets/c635a7e6-bbb2-4d48-b1b6-5bfdd838a047" />
-
-      </a>
+         <img width="1862" height="1056" alt="image" src="https://github.com/user-attachments/assets/c635a7e6-bbb2-4d48-b1b6-5bfdd838a047" /> </a>
       <p><b>What it is:</b> uilt a lightweight MCP server integrating Gemini API with global map data to enable real-time geo-searching and location insights.</p>
       <p>
         <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&labelColor=000&style=flat" />
