@@ -145,8 +145,7 @@
     <td>
       <h3>💧 Real-Time Video Meet Service</h3>
       <a href="#">
-        <img src="https://i.postimg.cc/50yzbVsj/image.png" alt="AquaAlert Preview" width="100%" />
-      </a>
+       <img width="1052" height="550" alt="image" src="https://github.com/user-attachments/assets/256ef403-c063-4d43-9399-cf4c089b372d" /> </a>
       <p><b>What it is:</b>Engineered a WebRTC server (mediasoup) for 500+ concurrent video sessions like Google Meet and Microsoft Teams.</p>
       <p>
         <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
