@@ -1,9 +1,9 @@
 
 
-<center>
- # Priyanshu Yadav 👋  
+
+ Hi! I am Priyanshu Yadav 👋  
 **C++ Systems Developer • Full-Stack Developer • AI & ML Engineering** 
-</center>
+
 
 
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail)](mailto:priyanshs.ece@gmail.com)
