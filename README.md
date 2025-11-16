@@ -8,8 +8,8 @@
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail)](mailto:priyanshs.ece@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/priyanshuhbti/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/priyanshscpp)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Blue%201957-1F8ACB?style=flat&logo=codeforces)](https://codeforces.com/profile/priyanshs.exe)
-[![LeetCode](https://img.shields.io/badge/Codechef-4Star%201874-FFA116?style=flat&logo=codechef)](https://www.codechef.com/users/priyanshsexe)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Blue%201611-1F8ACB?style=flat&logo=codeforces)](https://codeforces.com/profile/priyanshs.exe)
+[![LeetCode](https://img.shields.io/badge/Codechef-4Star%201824-FFA116?style=flat&logo=codechef)](https://www.codechef.com/users/priyanshsexe)
 
 <img src="https://komarev.com/ghpvc/?username=priyanshuhbti&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuhbti" /> 
 
