@@ -35,9 +35,9 @@
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=priyanshs.exe&theme=github_dark" alt="Codeforces Stats" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/priyanshsexe">
+  <!-- <a href="https://leetcode.com/priyanshsexe">
     <img src="https://leetcard.jacoblin.cool/priyanshsexe?theme=dark&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Card" />
-  </a>
+  </a> -->
 </p>
 
 ---
