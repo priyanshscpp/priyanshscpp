@@ -1,8 +1,10 @@
 
 
+<center>
+ # Priyanshu Yadav 👋  
+**C++ Systems Developer • Full-Stack Developer • AI & ML Engineering** 
+</center>
 
-# Priyanshu Yadav 👋  
-**C++ Systems Developer • Full-Stack Developer • AI & ML Engineering**
 
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail)](mailto:priyanshs.ece@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/priyanshuhbti/)
