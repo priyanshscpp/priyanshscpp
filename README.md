@@ -1,7 +1,6 @@
 
 
-Hello! I'm Priyanshu. &nbsp; &nbsp; <img src="https://komarev.com/ghpvc/?username=priyanshuhbti&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuhbti" /> 
-
+Hello! I'm Priyanshu. &nbsp; &nbsp; 
 <!-- Profile README for Mohammad Tauqeer -->
 <div align="center">
 
@@ -14,7 +13,8 @@ Hello! I'm Priyanshu. &nbsp; &nbsp; <img src="https://komarev.com/ghpvc/?usernam
 [![Codeforces](https://img.shields.io/badge/Codeforces-Purple%201957-1F8ACB?style=flat&logo=codeforces)](https://codeforces.com/profile/pedrosa)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Knight%201874-FFA116?style=flat&logo=leetcode)](https://leetcode.com/Mtauqeer7770)
 
-![](https://komarev.com/ghpvc/?username=codeMaverick7770&color=0e75b6&style=flat)
+<img src="https://komarev.com/ghpvc/?username=priyanshuhbti&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuhbti" /> 
+
 
 </div>
 
