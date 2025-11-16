@@ -1,8 +1,5 @@
 
 
-Hello! I'm Priyanshu. &nbsp; &nbsp; 
-<!-- Profile README for Mohammad Tauqeer -->
-<div align="center">
 
 # Priyanshu Yadav 👋  
 **C++ Systems Developer • Full-Stack Developer • AI & ML Engineering**
@@ -10,8 +7,8 @@ Hello! I'm Priyanshu. &nbsp; &nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail)](mailto:priyanshs.ece@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/priyanshuhbti/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/priyanshscpp)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Purple%201957-1F8ACB?style=flat&logo=codeforces)](https://codeforces.com/profile/priyanshs.exe)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%201874-FFA116?style=flat&logo=leetcode)](https://leetcode.com/priyanshsexe)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Blue%201957-1F8ACB?style=flat&logo=codeforces)](https://codeforces.com/profile/priyanshs.exe)
+[![LeetCode](https://img.shields.io/badge/Codechef-4Star%201874-FFA116?style=flat&logo=codechef)](https://www.codechef.com/users/priyanshsexe)
 
 <img src="https://komarev.com/ghpvc/?username=priyanshuhbti&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuhbti" /> 
 
@@ -34,11 +31,11 @@ Hello! I'm Priyanshu. &nbsp; &nbsp;
 
 <p align="center">
   <a href="https://codeforces.com/profile/priyanshs.exe">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=pedrosa&theme=github_dark" alt="Codeforces Stats" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=priyanshs.exe&theme=github_dark" alt="Codeforces Stats" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/Mtauqeer7770">
-    <img src="https://leetcard.jacoblin.cool/Mtauqeer7770?theme=dark&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Card" />
+  <a href="https://leetcode.com/priyanshsexe">
+    <img src="https://leetcard.jacoblin.cool/priyanshsexe?theme=dark&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Card" />
   </a>
 </p>
 
