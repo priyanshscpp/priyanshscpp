@@ -2,18 +2,193 @@
 
 Hello! I'm Priyanshu. &nbsp; &nbsp; <img src="https://komarev.com/ghpvc/?username=priyanshuhbti&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuhbti" /> 
 
-Eng Stuff @ Work:
+<!-- Profile README for Mohammad Tauqeer -->
+<div align="center">
 
-* Building scalable, low-latency **backend services** in **Typescript** :electron: by Microsoft.
-* Working on [Computer Systems Engineering ](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/):
-  * As a Core Learner & Contributor.🌞
-* Automating literally all the things 🤖.
+# Priyanshu Yadav 👋  
+**C++ Systems Developer • Full-Stack Developer • AI & ML Engineering**
 
-Eng Stuff Not @ Work:
+[![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail)](mailto:priyanshs.ece@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/priyanshuhbti/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/codeMaverick7770)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Purple%201957-1F8ACB?style=flat&logo=codeforces)](https://codeforces.com/profile/pedrosa)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%201874-FFA116?style=flat&logo=leetcode)](https://leetcode.com/Mtauqeer7770)
 
-* Messing around with Machine Learning Systems - particularly ones that [tie together](https://dsg.csail.mit.edu/6.887/) RTOS and [funky](https://coursebrowser.dce.harvard.edu/course/unix-linux-systems-programming/) LinuxOS [functionality]().
-* Helping organize [GDSC](https://gdg.hbtu.in/team) - a meetup for everyone where Tech speakers take the stage.
+![](https://komarev.com/ghpvc/?username=codeMaverick7770&color=0e75b6&style=flat)
 
-Not @ Work: 🏃🏻‍♀️ - :book: - 🎶 - 🏁 - 🌁 - 🚲 - 🌿
+</div>
 
-I'm  **@priyanshscpp** everywhere - find me on [twitter](https://twitter.com/priyanshscpp), [academia.re](http://academia.re), [dev.to](https://dev.to/priayanshscpp), etc!
+---
+
+## 🚀 About Me
+- **Top 1000 India** — Codeforces Peak 1611 (Blue)  
+- **4 Star Codechef** — Codechef Peak 1824  
+- **ICPC Regionals Chennai 2024** — Rank 135/2200+
+- **Meta Hacker Cup 2025** — Global Rank of 3610
+- Web Lead — **Google Developer Groups (2024)**  
+- Location: Prayagraj, India
+
+---
+
+## 🏆 Competitive Programming
+
+<p align="center">
+  <a href="https://codeforces.com/profile/priyanshs.exe">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=pedrosa&theme=github_dark" alt="Codeforces Stats" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/Mtauqeer7770">
+    <img src="https://leetcard.jacoblin.cool/Mtauqeer7770?theme=dark&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Card" />
+  </a>
+</p>
+
+---
+
+
+<h3 align="left">Technical Skills:</h3>
+
+<h4>Languages</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
+
+<h4>Frontend</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+<h4>Backend</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+<h4>Databases</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+<h4>Tools & Platforms</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+## Specialized Skills
+- Data Structures & Algorithms
+- Machine Learning
+- Deep Learning
+- System Design
+- Systems Programming
+
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <h3>🏆 MapGPT MCP</h3>
+      <a href="https://kickdsa.online/">
+        <img src="https://i.postimg.cc/W43mbg32/image.png" alt="kickDSA Preview" width="100%" />
+      </a>
+      <p><b>What it is:</b> uilt a lightweight MCP server integrating Gemini API with global map data to enable real-time geo-searching and location insights.</p>
+      <p>
+        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&labelColor=000&style=flat" />
+        <img alt="Express" src="https://img.shields.io/badge/Express-000?logo=express&logoColor=white&style=flat" />
+        <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
+        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" />
+        <img alt="AWS EC2" src="https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazon-aws&logoColor=white&style=flat" />
+      </p>
+      <p>
+        <a href="https://github.com/cod">🔗 Repo</a> •
+        <a href="https://map-gpt-one.vercel.app/">🌐 Live</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>🎯 Aagaz’25 — Sports Fest Platform</h3>
+      <a href="https://aagaz25.online/">
+        <img src="https://i.postimg.cc/L8yf75VG/image.png" alt="Aagaz Preview" width="100%" />
+      </a>
+      <p><b>What it is:</b> MERN platform for registrations, payments & sponsors (5K+ users, 20+ colleges).</p>
+      <p>
+        <img alt="MERN" src="https://img.shields.io/badge/MERN-3C3C3C?logo=react&logoColor=61DAFB&style=flat" />
+        <img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-3D3D3D?logo=openid&logoColor=white&style=flat" />
+        <img alt="Payments" src="https://img.shields.io/badge/Payments-2C7?style=flat" />
+      </p>
+      <p>
+        <a href="https://github.com/codeMaverick7770/aagaz25">🔗 Repo</a> •
+        <a href="https://aagaz25.online/">🌐 Live</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>💧 Real-Time Video Meet Service</h3>
+      <a href="#">
+        <img src="https://i.postimg.cc/50yzbVsj/image.png" alt="AquaAlert Preview" width="100%" />
+      </a>
+      <p><b>What it is:</b>Engineered a WebRTC server (mediasoup) for 500+ concurrent video sessions like Google Meet and Microsoft Teams.</p>
+      <p>
+        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
+        <img alt="Web" src="https://img.shields.io/badge/Deep%20Learning-3A3A3A?logo=tensorflow&logoColor=white&style=flat" />
+        <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat" />
+        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" />
+      </p>
+      <p>
+        <a href="https://video-connectt.netlify.app/">🔗 Live Link</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshscpp&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshscpp&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=priyanshscpp&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshscpp&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🤝 Connect
+<p align="center">
+  <a href="mailto:priyanshs.ece@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/priyanshuhbti/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/priyanshscpp"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
