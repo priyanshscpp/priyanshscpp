@@ -19,7 +19,7 @@
 ---
 
 ## 🚀 About Me
-- **Top 1000 India** — Codeforces Peak 1611 (Blue)  
+- **Top 2000  India** — Codeforces Peak 1494 (Blue)  
 - **4 Star Codechef** — Codechef Peak 1824  
 - **ICPC Regionals Chennai 2024** — Rank 135/2200+
 - **Meta Hacker Cup 2025** — Global Rank of 3610
