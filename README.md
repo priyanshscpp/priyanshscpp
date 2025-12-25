@@ -1,7 +1,7 @@
 <div align="center">
 
 # Priyanshu Yadav 👋  
-**C++ Systems Developer • Full-Stack Developer • AI Engineering** 
+**C++ Systems Developer • Full-Stack Developer • AI & ML Engineering** 
 
 
 
