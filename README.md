@@ -43,7 +43,7 @@
 ---
 
 
-<h3 align="left">Technical Skills:</h3>
+<!-- <h3 align="left">Technical Skills:</h3>
 
 <h4>Languages</h4>
 <p align="left">
@@ -63,8 +63,8 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-<h4>Backend</h4>
-<p align="left">
+<h4>Backend</h4> -->
+<!-- <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -85,102 +85,14 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+</p> -->
 
 ## Specialized Skills
 - Data Structures & Algorithms
 - Machine Learning
-- Deep Learning
-- System Design
-- Systems Programming
-
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td>
-      <h3>🏆 MapGPT MCP</h3>
-      <a href="https://kickdsa.online/">
-         <img width="1862" height="1056" alt="image" src="https://github.com/user-attachments/assets/c635a7e6-bbb2-4d48-b1b6-5bfdd838a047" /> </a>
-      <p><b>What it is:</b> uilt a lightweight MCP server integrating Gemini API with global map data to enable real-time geo-searching and location insights.</p>
-      <p>
-        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&labelColor=000&style=flat" />
-        <img alt="Express" src="https://img.shields.io/badge/Express-000?logo=express&logoColor=white&style=flat" />
-        <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
-        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" />
-        <img alt="AWS EC2" src="https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazon-aws&logoColor=white&style=flat" />
-      </p>
-      <p>
-        <a href="https://github.com/cod">🔗 Repo</a> •
-        <a href="https://map-gpt-one.vercel.app/">🌐 Live</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <h3>🎯 Aagaz’25 — Sports Fest Platform</h3>
-      <a href="https://aagaz25.online/">
-        <img src="https://i.postimg.cc/L8yf75VG/image.png" alt="Aagaz Preview" width="100%" />
-      </a>
-      <p><b>What it is:</b> MERN platform for registrations, payments & sponsors (5K+ users, 20+ colleges).</p>
-      <p>
-        <img alt="MERN" src="https://img.shields.io/badge/MERN-3C3C3C?logo=react&logoColor=61DAFB&style=flat" />
-        <img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-3D3D3D?logo=openid&logoColor=white&style=flat" />
-        <img alt="Payments" src="https://img.shields.io/badge/Payments-2C7?style=flat" />
-      </p>
-      <p>
-        <a href="https://github.com/codeMaverick7770/aagaz25">🔗 Repo</a> •
-        <a href="https://aagaz25.online/">🌐 Live</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <h3>💧 Real-Time Video Meet Service</h3>
-      <a href="#">
-       <img width="1052" height="550" alt="image" src="https://github.com/user-attachments/assets/256ef403-c063-4d43-9399-cf4c089b372d" /> </a>
-      <p><b>What it is:</b>Engineered a WebRTC server (mediasoup) for 500+ concurrent video sessions like Google Meet and Microsoft Teams.</p>
-      <p>
-        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
-        <img alt="Web" src="https://img.shields.io/badge/Deep%20Learning-3A3A3A?logo=tensorflow&logoColor=white&style=flat" />
-        <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat" />
-        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" />
-      </p>
-      <p>
-        <a href="https://video-connectt.netlify.app/">🔗 Live Link</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshscpp&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshscpp&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=priyanshscpp&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshscpp&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
+- Backend Engineering
+- Computer Systems Engineering
+- Electronics and Communication Engineering
 
 ## 🤝 Connect
 <p align="center">
