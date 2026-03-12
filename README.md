@@ -24,7 +24,6 @@
 - **ICPC Regionals Chennai 2024** — Rank 135/2200+
 - **Meta Hacker Cup 2025** — Global Rank of 3610
 - Web Lead — **Google Developer Groups (2024)**  
-- Location: Prayagraj, India
 
 ---
 
